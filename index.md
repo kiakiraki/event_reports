@@ -6,8 +6,8 @@
 
 ### 関東CV勉強会
 
-* [20190414_サーベイ発表会]()
-  * https://kantocv.connpass.com/event/125101/
+* [20190414_サーベイ発表会](kantocv/20190414.md)
+  * [https://kantocv.connpass.com/event/125101/](https://kantocv.connpass.com/event/125101/)
 
 ## 2018
 
